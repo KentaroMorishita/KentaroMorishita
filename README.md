@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**KentaroMorishita/KentaroMorishita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Chill Engineer** who loves **TypeScript** and **React**.  
 
-Here are some ideas to get you started:
+### 🚀 About My Work  
+I’m the creator of **F-Box**, a state management library designed for TypeScript and React.  
+- **Documentation**: https://f-box-docs.com  
+- **npm Packages**:  
+  - Core: https://www.npmjs.com/package/f-box-core  
+  - React: https://www.npmjs.com/package/f-box-react  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Reach Me  
+You can find me on:  
+- **Dev.to**: https://dev.to/kentaromorishita  
+- **Qiita**: https://qiita.com/KentaroMorishita  
+- **GitHub**: https://github.com/KentaroMorishita  
